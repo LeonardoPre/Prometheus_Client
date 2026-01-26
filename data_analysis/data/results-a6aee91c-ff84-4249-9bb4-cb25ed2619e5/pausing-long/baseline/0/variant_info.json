@@ -1,0 +1,1 @@
+{"name": "baseline", "target_branch": "vanilla", "executor": "colocated", "scaling": "cpu", "max_autoscale": "3", "critical_services": ["teastore-auth", "teastore-registry", "teastore-webui"]}

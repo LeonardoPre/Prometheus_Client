@@ -1,0 +1,2 @@
+Method,Name,Error,Occurrences
+GET,/category,HTTPError('500 Server Error:  for url: /category'),1

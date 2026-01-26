@@ -1,0 +1,67 @@
+[2026-01-22 17:33:48,254] loadgenerator/WARNING/locust.main: --run-time, --users or --spawn-rate have no impact on LoadShapes unless the shape class explicitly reads them. See: docs.locust.io/en/stable/custom-load-shape.html#use-common-options
+[2026-01-22 17:33:48,255] loadgenerator/WARNING/locust.main: The following option(s) will be ignored: --run-time
+[2026-01-22 17:33:48,256] loadgenerator/INFO/locust.runners: Shape test starting.
+[2026-01-22 17:33:48,257] loadgenerator/INFO/locust.runners: Shape worker starting
+[2026-01-22 17:33:48,258] loadgenerator/INFO/locust.runners: Shape test updating to 2 users at 2.00 spawn rate
+[2026-01-22 17:33:48,258] loadgenerator/INFO/locust.runners: Ramping to 2 users at a rate of 2.00 per second
+[2026-01-22 17:33:48,259] loadgenerator/INFO/locust.runners: All users spawned: {"ConsumerBehaviourModelGraph": 2} (2 total users)
+[2026-01-22 17:33:54,267] loadgenerator/INFO/locust.runners: Shape test updating to 0 users at 100.00 spawn rate
+[2026-01-22 17:33:54,268] loadgenerator/INFO/locust.runners: Ramping to 0 users at a rate of 100.00 per second
+[2026-01-22 17:33:54,269] loadgenerator/INFO/locust.runners: All users spawned: {"ConsumerBehaviourModelGraph": 0} (0 total users)
+[2026-01-22 17:33:56,271] loadgenerator/INFO/locust.runners: Shape test updating to 5 users at 2.00 spawn rate
+[2026-01-22 17:33:56,271] loadgenerator/INFO/locust.runners: Ramping to 5 users at a rate of 2.00 per second
+[2026-01-22 17:33:58,275] loadgenerator/INFO/locust.runners: All users spawned: {"ConsumerBehaviourModelGraph": 5} (5 total users)
+[2026-01-22 17:34:02,281] loadgenerator/INFO/locust.runners: Shape test updating to 0 users at 100.00 spawn rate
+[2026-01-22 17:34:02,282] loadgenerator/INFO/locust.runners: Ramping to 0 users at a rate of 100.00 per second
+[2026-01-22 17:34:02,284] loadgenerator/INFO/locust.runners: All users spawned: {"ConsumerBehaviourModelGraph": 0} (0 total users)
+[2026-01-22 17:34:04,285] loadgenerator/INFO/locust.runners: Shape test updating to 8 users at 2.00 spawn rate
+[2026-01-22 17:34:04,285] loadgenerator/INFO/locust.runners: Ramping to 8 users at a rate of 2.00 per second
+[2026-01-22 17:34:07,291] loadgenerator/INFO/locust.runners: All users spawned: {"ConsumerBehaviourModelGraph": 8} (8 total users)
+[2026-01-22 17:34:10,295] loadgenerator/INFO/locust.runners: Shape test updating to 0 users at 100.00 spawn rate
+[2026-01-22 17:34:10,296] loadgenerator/INFO/locust.runners: Ramping to 0 users at a rate of 100.00 per second
+[2026-01-22 17:34:10,299] loadgenerator/INFO/locust.runners: All users spawned: {"ConsumerBehaviourModelGraph": 0} (0 total users)
+[2026-01-22 17:34:12,299] loadgenerator/INFO/locust.runners: Shape test updating to 6 users at 2.00 spawn rate
+[2026-01-22 17:34:12,300] loadgenerator/INFO/locust.runners: Ramping to 6 users at a rate of 2.00 per second
+[2026-01-22 17:34:14,304] loadgenerator/INFO/locust.runners: All users spawned: {"ConsumerBehaviourModelGraph": 6} (6 total users)
+[2026-01-22 17:34:18,310] loadgenerator/INFO/locust.runners: Shape test updating to 0 users at 100.00 spawn rate
+[2026-01-22 17:34:18,310] loadgenerator/INFO/locust.runners: Ramping to 0 users at a rate of 100.00 per second
+[2026-01-22 17:34:18,312] loadgenerator/INFO/locust.runners: All users spawned: {"ConsumerBehaviourModelGraph": 0} (0 total users)
+[2026-01-22 17:34:20,313] loadgenerator/INFO/locust.runners: Shape test updating to 6 users at 2.00 spawn rate
+[2026-01-22 17:34:20,313] loadgenerator/INFO/locust.runners: Ramping to 6 users at a rate of 2.00 per second
+[2026-01-22 17:34:22,319] loadgenerator/INFO/locust.runners: All users spawned: {"ConsumerBehaviourModelGraph": 6} (6 total users)
+[2026-01-22 17:34:26,324] loadgenerator/INFO/locust.runners: Shape test updating to 0 users at 100.00 spawn rate
+[2026-01-22 17:34:26,325] loadgenerator/INFO/locust.runners: Ramping to 0 users at a rate of 100.00 per second
+[2026-01-22 17:34:26,328] loadgenerator/INFO/locust.runners: All users spawned: {"ConsumerBehaviourModelGraph": 0} (0 total users)
+[2026-01-22 17:34:28,327] loadgenerator/INFO/locust.runners: Shape test updating to 5 users at 2.00 spawn rate
+[2026-01-22 17:34:28,328] loadgenerator/INFO/locust.runners: Ramping to 5 users at a rate of 2.00 per second
+[2026-01-22 17:34:30,332] loadgenerator/INFO/locust.runners: All users spawned: {"ConsumerBehaviourModelGraph": 5} (5 total users)
+[2026-01-22 17:34:34,339] loadgenerator/INFO/locust.runners: Shape test updating to 0 users at 100.00 spawn rate
+[2026-01-22 17:34:34,339] loadgenerator/INFO/locust.runners: Ramping to 0 users at a rate of 100.00 per second
+[2026-01-22 17:34:34,341] loadgenerator/INFO/locust.runners: All users spawned: {"ConsumerBehaviourModelGraph": 0} (0 total users)
+[2026-01-22 17:34:36,343] loadgenerator/INFO/locust.runners: Shape test updating to 1 users at 2.00 spawn rate
+[2026-01-22 17:34:36,344] loadgenerator/INFO/locust.runners: Ramping to 1 users at a rate of 2.00 per second
+[2026-01-22 17:34:36,345] loadgenerator/INFO/locust.runners: All users spawned: {"ConsumerBehaviourModelGraph": 1} (1 total users)
+[2026-01-22 17:34:42,356] loadgenerator/INFO/locust.runners: Shape test updating to 0 users at 100.00 spawn rate
+[2026-01-22 17:34:42,356] loadgenerator/INFO/locust.runners: Ramping to 0 users at a rate of 100.00 per second
+[2026-01-22 17:34:42,357] loadgenerator/INFO/locust.runners: All users spawned: {"ConsumerBehaviourModelGraph": 0} (0 total users)
+[2026-01-22 17:34:44,360] loadgenerator/INFO/locust.runners: Shape test updating to 1 users at 2.00 spawn rate
+[2026-01-22 17:34:44,360] loadgenerator/INFO/locust.runners: Ramping to 1 users at a rate of 2.00 per second
+[2026-01-22 17:34:44,361] loadgenerator/INFO/locust.runners: All users spawned: {"ConsumerBehaviourModelGraph": 1} (1 total users)
+[2026-01-22 17:34:50,373] loadgenerator/INFO/locust.runners: Shape test stopping
+[2026-01-22 17:34:50,475] loadgenerator/INFO/locust.main: --run-time limit reached, shutting down
+[2026-01-22 17:34:50,475] loadgenerator/INFO/locust.main: Run time limit set to 128 seconds
+[2026-01-22 17:34:50,475] loadgenerator/INFO/locust.main: Starting Locust 2.29.0
+[2026-01-22 17:34:50,476] loadgenerator/INFO/locust.main: Shutting down (exit code 0)
+Type     Name                                                                          # reqs      # fails |    Avg     Min     Max    Med |   req/s  failures/s
+--------|----------------------------------------------------------------------------|-------|-------------|-------|-------|-------|-------|--------|-----------
+GET      /category                                                                          2     0(0.00%) |   4927    4356    5498   4400 |    0.04        0.00
+--------|----------------------------------------------------------------------------|-------|-------------|-------|-------|-------|-------|--------|-----------
+         Aggregated                                                                         2     0(0.00%) |   4927    4356    5498   4400 |    0.04        0.00
+
+Response time percentiles (approximated)
+Type     Name                                                                                  50%    66%    75%    80%    90%    95%    98%    99%  99.9% 99.99%   100% # reqs
+--------|--------------------------------------------------------------------------------|--------|------|------|------|------|------|------|------|------|------|------|------
+GET      /category                                                                            5500   5500   5500   5500   5500   5500   5500   5500   5500   5500   5500      2
+--------|--------------------------------------------------------------------------------|--------|------|------|------|------|------|------|------|------|------|------|------
+         Aggregated                                                                           5500   5500   5500   5500   5500   5500   5500   5500   5500   5500   5500      2
+

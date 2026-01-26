@@ -1,0 +1,116 @@
+[2026-01-22 17:36:22,185] loadgenerator/INFO/locust.main: Run time limit set to 40 seconds
+[2026-01-22 17:36:22,185] loadgenerator/INFO/locust.main: Starting Locust 2.29.0
+[2026-01-22 17:36:22,187] loadgenerator/INFO/locust.runners: Ramping to 100 users at a rate of 3.00 per second
+[2026-01-22 17:36:22,188] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:22,200] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:22,202] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:23,191] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:23,192] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:23,195] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:24,192] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:24,194] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:24,195] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:25,194] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:25,196] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:25,197] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:26,197] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:26,198] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:26,199] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:27,198] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:27,199] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:27,200] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:28,200] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:28,201] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:28,202] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:29,202] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:29,203] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:29,205] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:30,204] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:30,206] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:30,207] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:31,206] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:31,208] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:31,209] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:32,208] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:32,210] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:32,211] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:33,210] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:33,212] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:33,213] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:34,211] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:34,213] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:34,215] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:35,215] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:35,217] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:35,219] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:36,217] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:36,219] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:36,220] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:37,217] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:37,219] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:37,220] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:38,220] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:38,221] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:38,223] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:39,222] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:39,224] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:39,225] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:40,225] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:40,226] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:40,228] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:41,227] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:41,228] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:41,230] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:42,228] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:42,229] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:42,231] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:43,230] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:43,231] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:43,232] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:44,232] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:44,234] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:44,235] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:45,235] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:45,236] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:45,237] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:46,237] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:46,238] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:46,240] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:47,238] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:47,240] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:47,241] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:48,241] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:48,243] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:48,244] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:49,242] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:49,244] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:49,245] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:50,245] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:50,247] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:50,248] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:51,247] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:51,249] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:51,250] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:52,249] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:52,250] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:52,253] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:53,250] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:53,252] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:53,254] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:54,253] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:54,255] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:54,256] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:36:55,255] loadgenerator/INFO/locust.runners: All users spawned: {"UserBehavior": 100} (100 total users)
+[2026-01-22 17:36:55,255] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:37:01,874] loadgenerator/INFO/locust.main: --run-time limit reached, shutting down
+[2026-01-22 17:37:02,012] loadgenerator/INFO/locust.main: Shutting down (exit code 0)
+Type     Name                                                                          # reqs      # fails |    Avg     Min     Max    Med |   req/s  failures/s
+--------|----------------------------------------------------------------------------|-------|-------------|-------|-------|-------|-------|--------|-----------
+--------|----------------------------------------------------------------------------|-------|-------------|-------|-------|-------|-------|--------|-----------
+         Aggregated                                                                         0     0(0.00%) |      0       0       0      0 |    0.00        0.00
+
+Response time percentiles (approximated)
+Type     Name                                                                                  50%    66%    75%    80%    90%    95%    98%    99%  99.9% 99.99%   100% # reqs
+--------|--------------------------------------------------------------------------------|--------|------|------|------|------|------|------|------|------|------|------|------
+--------|--------------------------------------------------------------------------------|--------|------|------|------|------|------|------|------|------|------|------|------
+

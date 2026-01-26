@@ -1,0 +1,222 @@
+[2026-01-22 17:38:33,235] loadgenerator/INFO/locust.main: Run time limit set to 128 seconds
+[2026-01-22 17:38:33,235] loadgenerator/INFO/locust.main: Starting Locust 2.29.0
+[2026-01-22 17:38:33,237] loadgenerator/INFO/locust.runners: Ramping to 10 users at a rate of 1.00 per second
+[2026-01-22 17:38:33,238] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:38:34,240] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:38:35,242] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:38:36,244] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:38:37,247] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:38:38,249] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:38:38,506] loadgenerator/ERROR/root: Could not load landing page: 500
+[2026-01-22 17:38:38,508] loadgenerator/ERROR/root: Could not load landing page: 500
+[2026-01-22 17:38:38,510] loadgenerator/ERROR/root: Could not load landing page: 500
+[2026-01-22 17:38:38,512] loadgenerator/ERROR/root: Could not load landing page: 500
+[2026-01-22 17:38:38,514] loadgenerator/ERROR/root: Could not load landing page: 500
+[2026-01-22 17:38:38,816] loadgenerator/ERROR/root: Could not load landing page: 500
+[2026-01-22 17:38:39,250] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:38:39,322] loadgenerator/ERROR/root: Could not load login page: 500
+[2026-01-22 17:38:39,414] loadgenerator/ERROR/root: Could not load login page: 500
+[2026-01-22 17:38:39,504] loadgenerator/ERROR/root: Could not load login page: 500
+[2026-01-22 17:38:39,506] loadgenerator/ERROR/root: Could not load login page: 500
+[2026-01-22 17:38:39,514] loadgenerator/ERROR/root: Could not load login page: 500
+[2026-01-22 17:38:39,612] loadgenerator/ERROR/root: Could not login with username: 13 - status: 500
+[2026-01-22 17:38:39,703] loadgenerator/ERROR/root: Could not load login page: 500
+[2026-01-22 17:38:39,709] loadgenerator/ERROR/root: Could not login with username: 52 - status: 500
+[2026-01-22 17:38:39,711] loadgenerator/ERROR/root: Could not load landing page: 500
+[2026-01-22 17:38:39,713] loadgenerator/ERROR/root: Could not login with username: 64 - status: 500
+[2026-01-22 17:38:39,715] loadgenerator/ERROR/root: Could not login with username: 88 - status: 500
+[2026-01-22 17:38:39,717] loadgenerator/ERROR/root: Could not login with username: 84 - status: 500
+[2026-01-22 17:38:39,820] loadgenerator/ERROR/root: Could not login with username: 79 - status: 500
+[2026-01-22 17:38:40,015] loadgenerator/ERROR/root: Could not visit category 6 on page 1 - status 500
+[2026-01-22 17:38:40,017] loadgenerator/ERROR/root: Could not visit category 2 on page 1 - status 500
+[2026-01-22 17:38:40,202] loadgenerator/ERROR/root: Could not visit category 2 on page 1 - status 500
+[2026-01-22 17:38:40,253] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:38:40,304] loadgenerator/ERROR/root: Could not visit category 6 on page 1 - status 500
+[2026-01-22 17:38:40,306] loadgenerator/ERROR/root: Could not visit category 2 on page 1 - status 500
+[2026-01-22 17:38:40,309] loadgenerator/ERROR/root: Could not visit category 2 on page 1 - status 500
+[2026-01-22 17:38:40,412] loadgenerator/ERROR/root: Could not visit category 3 on page 1 - status 500
+[2026-01-22 17:38:40,417] loadgenerator/ERROR/root: Could not visit category 6 on page 1 - status 500
+[2026-01-22 17:38:40,506] loadgenerator/ERROR/root: Could not visit profile page.
+[2026-01-22 17:38:40,509] loadgenerator/ERROR/root: Could not load login page: 500
+[2026-01-22 17:38:40,609] loadgenerator/ERROR/root: Could not visit category 3 on page 1 - status 500
+[2026-01-22 17:38:40,617] loadgenerator/ERROR/root: Could not visit category 6 on page 1 - status 500
+[2026-01-22 17:38:40,704] loadgenerator/ERROR/root: Could not login with username: 77 - status: 500
+[2026-01-22 17:38:40,708] loadgenerator/ERROR/root: Could not load landing page: 500
+[2026-01-22 17:38:40,713] loadgenerator/ERROR/root: Could not buy products.
+[2026-01-22 17:38:40,805] loadgenerator/ERROR/root: Could not log out - status: 500
+[2026-01-22 17:38:40,805] loadgenerator/INFO/root: Completed user.
+[2026-01-22 17:38:40,805] loadgenerator/INFO/root: Waiting for 120s
+[2026-01-22 17:38:40,814] loadgenerator/ERROR/root: Could not visit category 6 on page 1 - status 500
+[2026-01-22 17:38:40,915] loadgenerator/ERROR/root: Could not buy products.
+[2026-01-22 17:38:40,917] loadgenerator/ERROR/root: Could not visit category 6 on page 1 - status 500
+[2026-01-22 17:38:41,005] loadgenerator/ERROR/root: Could not visit profile page.
+[2026-01-22 17:38:41,011] loadgenerator/ERROR/root: Could not visit category 4 on page 1 - status 500
+[2026-01-22 17:38:41,013] loadgenerator/ERROR/root: Could not visit category 2 on page 1 - status 500
+[2026-01-22 17:38:41,109] loadgenerator/ERROR/root: Could not visit profile page.
+[2026-01-22 17:38:41,112] loadgenerator/ERROR/root: Could not visit profile page.
+[2026-01-22 17:38:41,115] loadgenerator/ERROR/root: Could not log out - status: 500
+[2026-01-22 17:38:41,115] loadgenerator/INFO/root: Completed user.
+[2026-01-22 17:38:41,115] loadgenerator/INFO/root: Waiting for 120s
+[2026-01-22 17:38:41,120] loadgenerator/ERROR/root: Could not visit category 6 on page 1 - status 500
+[2026-01-22 17:38:41,210] loadgenerator/ERROR/root: Could not load login page: 500
+[2026-01-22 17:38:41,258] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:38:41,303] loadgenerator/ERROR/root: Could not visit profile page.
+[2026-01-22 17:38:41,314] loadgenerator/ERROR/root: Could not visit category 4 on page 1 - status 500
+[2026-01-22 17:38:41,316] loadgenerator/ERROR/root: Could not log out - status: 500
+[2026-01-22 17:38:41,316] loadgenerator/INFO/root: Completed user.
+[2026-01-22 17:38:41,316] loadgenerator/INFO/root: Waiting for 120s
+[2026-01-22 17:38:41,403] loadgenerator/ERROR/root: Could not log out - status: 500
+[2026-01-22 17:38:41,403] loadgenerator/INFO/root: Completed user.
+[2026-01-22 17:38:41,403] loadgenerator/INFO/root: Waiting for 120s
+[2026-01-22 17:38:41,408] loadgenerator/ERROR/root: Could not log out - status: 500
+[2026-01-22 17:38:41,408] loadgenerator/INFO/root: Completed user.
+[2026-01-22 17:38:41,408] loadgenerator/INFO/root: Waiting for 120s
+[2026-01-22 17:38:41,409] loadgenerator/ERROR/root: Could not buy products.
+[2026-01-22 17:38:41,411] loadgenerator/ERROR/root: Could not login with username: 10 - status: 500
+[2026-01-22 17:38:41,513] loadgenerator/ERROR/root: Could not load landing page: 500
+[2026-01-22 17:38:41,515] loadgenerator/ERROR/root: Could not visit profile page.
+[2026-01-22 17:38:41,611] loadgenerator/ERROR/root: Could not visit category 4 on page 1 - status 500
+[2026-01-22 17:38:41,709] loadgenerator/ERROR/root: Could not visit category 3 on page 1 - status 500
+[2026-01-22 17:38:41,711] loadgenerator/ERROR/root: Could not log out - status: 500
+[2026-01-22 17:38:41,711] loadgenerator/INFO/root: Completed user.
+[2026-01-22 17:38:41,711] loadgenerator/INFO/root: Waiting for 120s
+[2026-01-22 17:38:41,813] loadgenerator/ERROR/root: Could not buy products.
+[2026-01-22 17:38:41,820] loadgenerator/ERROR/root: Could not visit profile page.
+[2026-01-22 17:38:41,825] loadgenerator/ERROR/root: Could not load login page: 500
+[2026-01-22 17:38:41,916] loadgenerator/ERROR/root: Could not visit profile page.
+[2026-01-22 17:38:42,007] loadgenerator/ERROR/root: Could not log out - status: 500
+[2026-01-22 17:38:42,007] loadgenerator/INFO/root: Completed user.
+[2026-01-22 17:38:42,007] loadgenerator/INFO/root: Waiting for 120s
+[2026-01-22 17:38:42,008] loadgenerator/ERROR/root: Could not login with username: 18 - status: 500
+[2026-01-22 17:38:42,015] loadgenerator/ERROR/root: Could not log out - status: 500
+[2026-01-22 17:38:42,015] loadgenerator/INFO/root: Completed user.
+[2026-01-22 17:38:42,016] loadgenerator/INFO/root: Waiting for 120s
+[2026-01-22 17:38:42,123] loadgenerator/ERROR/root: Could not visit category 6 on page 1 - status 500
+[2026-01-22 17:38:42,265] loadgenerator/INFO/locust.runners: All users spawned: {"Pausing_Users": 10} (10 total users)
+[2026-01-22 17:38:42,265] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:38:42,303] loadgenerator/ERROR/root: Could not visit category 2 on page 1 - status 500
+[2026-01-22 17:38:42,415] loadgenerator/ERROR/root: Could not load landing page: 500
+[2026-01-22 17:38:42,424] loadgenerator/ERROR/root: Could not visit category 6 on page 1 - status 500
+[2026-01-22 17:38:42,710] loadgenerator/ERROR/root: Could not buy products.
+[2026-01-22 17:38:42,720] loadgenerator/ERROR/root: Could not load login page: 500
+[2026-01-22 17:38:42,807] loadgenerator/ERROR/root: Could not visit profile page.
+[2026-01-22 17:38:42,818] loadgenerator/ERROR/root: Could not login with username: 65 - status: 500
+[2026-01-22 17:38:42,910] loadgenerator/ERROR/root: Could not log out - status: 500
+[2026-01-22 17:38:42,910] loadgenerator/INFO/root: Completed user.
+[2026-01-22 17:38:42,910] loadgenerator/INFO/root: Waiting for 120s
+[2026-01-22 17:38:43,012] loadgenerator/ERROR/root: Could not visit category 6 on page 1 - status 500
+[2026-01-22 17:38:43,119] loadgenerator/ERROR/root: Could not visit category 6 on page 1 - status 500
+[2026-01-22 17:38:43,229] loadgenerator/ERROR/root: Could not visit category 5 on page 1 - status 500
+[2026-01-22 17:38:43,323] loadgenerator/ERROR/root: Could not visit profile page.
+[2026-01-22 17:38:43,722] loadgenerator/ERROR/root: Could not log out - status: 500
+[2026-01-22 17:38:43,722] loadgenerator/INFO/root: Completed user.
+[2026-01-22 17:38:43,722] loadgenerator/INFO/root: Waiting for 120s
+[2026-01-22 17:40:40,807] loadgenerator/INFO/root: Starting user.
+[2026-01-22 17:40:40,913] loadgenerator/INFO/locust.main: --run-time limit reached, shutting down
+[2026-01-22 17:40:41,019] loadgenerator/INFO/locust.main: Shutting down (exit code 1)
+Type     Name                                                                          # reqs      # fails |    Avg     Min     Max    Med |   req/s  failures/s
+--------|----------------------------------------------------------------------------|-------|-------------|-------|-------|-------|-------|--------|-----------
+GET      /tools.descartes.teastore.webui/                                                  10  10(100.00%) |   1822     148    5275    570 |    0.95        0.95
+POST     /tools.descartes.teastore.webui/cartAction?firstname=User&lastname=User&adress1=Road&adress2=City&cardtype=volvo&cardnumber=314159265359&expirydate=12%2F2050&confirm=Confirm       5   5(100.00%) |    356     202     498    400 |    0.48        0.48
+GET      /tools.descartes.teastore.webui/category?page=1&category=2                         2   2(100.00%) |    384     179     590    180 |    0.19        0.19
+GET      /tools.descartes.teastore.webui/category?page=1&category=3                         1   1(100.00%) |    405     405     405    405 |    0.10        0.10
+GET      /tools.descartes.teastore.webui/category?page=1&category=4                         1   1(100.00%) |    296     296     296    296 |    0.10        0.10
+GET      /tools.descartes.teastore.webui/category?page=1&category=6                         2   2(100.00%) |    217     121     313    121 |    0.19        0.19
+GET      /tools.descartes.teastore.webui/category?page=2&category=2                         3   3(100.00%) |    364     294     404    400 |    0.29        0.29
+GET      /tools.descartes.teastore.webui/category?page=2&category=6                         2   2(100.00%) |    496     399     594    400 |    0.19        0.19
+GET      /tools.descartes.teastore.webui/category?page=3&category=2                         1   1(100.00%) |    489     489     489    489 |    0.10        0.10
+GET      /tools.descartes.teastore.webui/category?page=3&category=4                         1   1(100.00%) |    306     306     306    306 |    0.10        0.10
+GET      /tools.descartes.teastore.webui/category?page=3&category=6                         3   3(100.00%) |    205     115     308    190 |    0.29        0.29
+GET      /tools.descartes.teastore.webui/category?page=4&category=3                         1   1(100.00%) |    591     591     591    591 |    0.10        0.10
+GET      /tools.descartes.teastore.webui/category?page=4&category=5                         1   1(100.00%) |    109     109     109    109 |    0.10        0.10
+GET      /tools.descartes.teastore.webui/category?page=4&category=6                         3   3(100.00%) |    271     106     401    310 |    0.29        0.29
+GET      /tools.descartes.teastore.webui/category?page=5&category=3                         1   1(100.00%) |    297     297     297    297 |    0.10        0.10
+GET      /tools.descartes.teastore.webui/category?page=5&category=4                         1   1(100.00%) |    302     302     302    302 |    0.10        0.10
+GET      /tools.descartes.teastore.webui/category?page=5&category=6                         1   1(100.00%) |    297     297     297    297 |    0.10        0.10
+GET      /tools.descartes.teastore.webui/login                                             10  10(100.00%) |    751     304     999    810 |    0.95        0.95
+POST     /tools.descartes.teastore.webui/loginAction?logout=                               10  10(100.00%) |    199      99     398    190 |    0.95        0.95
+POST     /tools.descartes.teastore.webui/loginAction?username=10&password=password          1   1(100.00%) |    200     200     200    200 |    0.10        0.10
+POST     /tools.descartes.teastore.webui/loginAction?username=13&password=password          1   1(100.00%) |    289     289     289    289 |    0.10        0.10
+POST     /tools.descartes.teastore.webui/loginAction?username=18&password=password          1   1(100.00%) |    182     182     182    182 |    0.10        0.10
+POST     /tools.descartes.teastore.webui/loginAction?username=52&password=password          1   1(100.00%) |    194     194     194    194 |    0.10        0.10
+POST     /tools.descartes.teastore.webui/loginAction?username=64&password=password          1   1(100.00%) |    298     298     298    298 |    0.10        0.10
+POST     /tools.descartes.teastore.webui/loginAction?username=65&password=password          1   1(100.00%) |     97      97      97     97 |    0.10        0.10
+POST     /tools.descartes.teastore.webui/loginAction?username=77&password=password          1   1(100.00%) |    195     195     195    195 |    0.10        0.10
+POST     /tools.descartes.teastore.webui/loginAction?username=79&password=password          1   1(100.00%) |    115     115     115    115 |    0.10        0.10
+POST     /tools.descartes.teastore.webui/loginAction?username=84&password=password          1   1(100.00%) |    212     212     212    212 |    0.10        0.10
+POST     /tools.descartes.teastore.webui/loginAction?username=88&password=password          1   1(100.00%) |    208     208     208    208 |    0.10        0.10
+GET      /tools.descartes.teastore.webui/profile                                           10  10(100.00%) |    157      94     291    110 |    0.95        0.95
+--------|----------------------------------------------------------------------------|-------|-------------|-------|-------|-------|-------|--------|-----------
+         Aggregated                                                                        79  79(100.00%) |    517      94    5275    300 |    7.53        7.53
+
+Response time percentiles (approximated)
+Type     Name                                                                                  50%    66%    75%    80%    90%    95%    98%    99%  99.9% 99.99%   100% # reqs
+--------|--------------------------------------------------------------------------------|--------|------|------|------|------|------|------|------|------|------|------|------
+GET      /tools.descartes.teastore.webui/                                                     1300   2300   3300   4300   5300   5300   5300   5300   5300   5300   5300     10
+POST     /tools.descartes.teastore.webui/cartAction?firstname=User&lastname=User&adress1=Road&adress2=City&cardtype=volvo&cardnumber=314159265359&expirydate=12%2F2050&confirm=Confirm      400    400    400    500    500    500    500    500    500    500    500      5
+GET      /tools.descartes.teastore.webui/category?page=1&category=2                            590    590    590    590    590    590    590    590    590    590    590      2
+GET      /tools.descartes.teastore.webui/category?page=1&category=3                            410    410    410    410    410    410    410    410    410    410    410      1
+GET      /tools.descartes.teastore.webui/category?page=1&category=4                            300    300    300    300    300    300    300    300    300    300    300      1
+GET      /tools.descartes.teastore.webui/category?page=1&category=6                            310    310    310    310    310    310    310    310    310    310    310      2
+GET      /tools.descartes.teastore.webui/category?page=2&category=2                            400    400    400    400    400    400    400    400    400    400    400      3
+GET      /tools.descartes.teastore.webui/category?page=2&category=6                            590    590    590    590    590    590    590    590    590    590    590      2
+GET      /tools.descartes.teastore.webui/category?page=3&category=2                            490    490    490    490    490    490    490    490    490    490    490      1
+GET      /tools.descartes.teastore.webui/category?page=3&category=4                            310    310    310    310    310    310    310    310    310    310    310      1
+GET      /tools.descartes.teastore.webui/category?page=3&category=6                            190    190    310    310    310    310    310    310    310    310    310      3
+GET      /tools.descartes.teastore.webui/category?page=4&category=3                            590    590    590    590    590    590    590    590    590    590    590      1
+GET      /tools.descartes.teastore.webui/category?page=4&category=5                            110    110    110    110    110    110    110    110    110    110    110      1
+GET      /tools.descartes.teastore.webui/category?page=4&category=6                            310    310    400    400    400    400    400    400    400    400    400      3
+GET      /tools.descartes.teastore.webui/category?page=5&category=3                            300    300    300    300    300    300    300    300    300    300    300      1
+GET      /tools.descartes.teastore.webui/category?page=5&category=4                            300    300    300    300    300    300    300    300    300    300    300      1
+GET      /tools.descartes.teastore.webui/category?page=5&category=6                            300    300    300    300    300    300    300    300    300    300    300      1
+GET      /tools.descartes.teastore.webui/login                                                 890    910    990   1000   1000   1000   1000   1000   1000   1000   1000     10
+POST     /tools.descartes.teastore.webui/loginAction?logout=                                   200    200    290    300    400    400    400    400    400    400    400     10
+POST     /tools.descartes.teastore.webui/loginAction?username=10&password=password             200    200    200    200    200    200    200    200    200    200    200      1
+POST     /tools.descartes.teastore.webui/loginAction?username=13&password=password             290    290    290    290    290    290    290    290    290    290    290      1
+POST     /tools.descartes.teastore.webui/loginAction?username=18&password=password             180    180    180    180    180    180    180    180    180    180    180      1
+POST     /tools.descartes.teastore.webui/loginAction?username=52&password=password             190    190    190    190    190    190    190    190    190    190    190      1
+POST     /tools.descartes.teastore.webui/loginAction?username=64&password=password             300    300    300    300    300    300    300    300    300    300    300      1
+POST     /tools.descartes.teastore.webui/loginAction?username=65&password=password              98     98     98     98     98     98     98     98     98     98     98      1
+POST     /tools.descartes.teastore.webui/loginAction?username=77&password=password             200    200    200    200    200    200    200    200    200    200    200      1
+POST     /tools.descartes.teastore.webui/loginAction?username=79&password=password             120    120    120    120    120    120    120    120    120    120    120      1
+POST     /tools.descartes.teastore.webui/loginAction?username=84&password=password             210    210    210    210    210    210    210    210    210    210    210      1
+POST     /tools.descartes.teastore.webui/loginAction?username=88&password=password             210    210    210    210    210    210    210    210    210    210    210      1
+GET      /tools.descartes.teastore.webui/profile                                               180    190    190    200    290    290    290    290    290    290    290     10
+--------|--------------------------------------------------------------------------------|--------|------|------|------|------|------|------|------|------|------|------|------
+         Aggregated                                                                            300    400    460    570    990   2300   4300   5300   5300   5300   5300     79
+
+Error report
+# occurrences      Error                                                                                               
+------------------|---------------------------------------------------------------------------------------------------------------------------------------------
+10                 GET /tools.descartes.teastore.webui/: HTTPError('500 Server Error:  for url: /tools.descartes.teastore.webui/')
+10                 GET /tools.descartes.teastore.webui/login: HTTPError('500 Server Error:  for url: /tools.descartes.teastore.webui/login')
+1                  POST /tools.descartes.teastore.webui/loginAction?username=13&password=password: HTTPError('500 Server Error:  for url: /tools.descartes.teastore.webui/loginAction?username=13&password=password')
+1                  POST /tools.descartes.teastore.webui/loginAction?username=52&password=password: HTTPError('500 Server Error:  for url: /tools.descartes.teastore.webui/loginAction?username=52&password=password')
+1                  POST /tools.descartes.teastore.webui/loginAction?username=64&password=password: HTTPError('500 Server Error:  for url: /tools.descartes.teastore.webui/loginAction?username=64&password=password')
+1                  POST /tools.descartes.teastore.webui/loginAction?username=88&password=password: HTTPError('500 Server Error:  for url: /tools.descartes.teastore.webui/loginAction?username=88&password=password')
+1                  POST /tools.descartes.teastore.webui/loginAction?username=84&password=password: HTTPError('500 Server Error:  for url: /tools.descartes.teastore.webui/loginAction?username=84&password=password')
+1                  POST /tools.descartes.teastore.webui/loginAction?username=79&password=password: HTTPError('500 Server Error:  for url: /tools.descartes.teastore.webui/loginAction?username=79&password=password')
+1                  GET /tools.descartes.teastore.webui/category?page=5&category=6: HTTPError('500 Server Error:  for url: /tools.descartes.teastore.webui/category?page=5&category=6')
+3                  GET /tools.descartes.teastore.webui/category?page=2&category=2: HTTPError('500 Server Error:  for url: /tools.descartes.teastore.webui/category?page=2&category=2')
+1                  GET /tools.descartes.teastore.webui/category?page=3&category=2: HTTPError('500 Server Error:  for url: /tools.descartes.teastore.webui/category?page=3&category=2')
+2                  GET /tools.descartes.teastore.webui/category?page=2&category=6: HTTPError('500 Server Error:  for url: /tools.descartes.teastore.webui/category?page=2&category=6')
+2                  GET /tools.descartes.teastore.webui/category?page=1&category=2: HTTPError('500 Server Error:  for url: /tools.descartes.teastore.webui/category?page=1&category=2')
+1                  GET /tools.descartes.teastore.webui/category?page=4&category=3: HTTPError('500 Server Error:  for url: /tools.descartes.teastore.webui/category?page=4&category=3')
+10                 GET /tools.descartes.teastore.webui/profile: HTTPError('500 Server Error:  for url: /tools.descartes.teastore.webui/profile')
+1                  GET /tools.descartes.teastore.webui/category?page=1&category=3: HTTPError('500 Server Error:  for url: /tools.descartes.teastore.webui/category?page=1&category=3')
+2                  GET /tools.descartes.teastore.webui/category?page=1&category=6: HTTPError('500 Server Error:  for url: /tools.descartes.teastore.webui/category?page=1&category=6')
+1                  POST /tools.descartes.teastore.webui/loginAction?username=77&password=password: HTTPError('500 Server Error:  for url: /tools.descartes.teastore.webui/loginAction?username=77&password=password')
+5                  POST /tools.descartes.teastore.webui/cartAction?firstname=User&lastname=User&adress1=Road&adress2=City&cardtype=volvo&cardnumber=314159265359&expirydate=12%2F2050&confirm=Confirm: HTTPError('500 Server Error:  for url: /tools.descartes.teastore.webui/cartAction?firstname=User&lastname=User&adress1=Road&adress2=City&cardtype=volvo&cardnumber=314159265359&expirydate=12%2F2050&confirm=Confirm')
+10                 POST /tools.descartes.teastore.webui/loginAction?logout=: HTTPError('500 Server Error:  for url: /tools.descartes.teastore.webui/loginAction?logout=')
+3                  GET /tools.descartes.teastore.webui/category?page=4&category=6: HTTPError('500 Server Error:  for url: /tools.descartes.teastore.webui/category?page=4&category=6')
+3                  GET /tools.descartes.teastore.webui/category?page=3&category=6: HTTPError('500 Server Error:  for url: /tools.descartes.teastore.webui/category?page=3&category=6')
+1                  GET /tools.descartes.teastore.webui/category?page=3&category=4: HTTPError('500 Server Error:  for url: /tools.descartes.teastore.webui/category?page=3&category=4')
+1                  GET /tools.descartes.teastore.webui/category?page=5&category=4: HTTPError('500 Server Error:  for url: /tools.descartes.teastore.webui/category?page=5&category=4')
+1                  POST /tools.descartes.teastore.webui/loginAction?username=10&password=password: HTTPError('500 Server Error:  for url: /tools.descartes.teastore.webui/loginAction?username=10&password=password')
+1                  GET /tools.descartes.teastore.webui/category?page=1&category=4: HTTPError('500 Server Error:  for url: /tools.descartes.teastore.webui/category?page=1&category=4')
+1                  GET /tools.descartes.teastore.webui/category?page=5&category=3: HTTPError('500 Server Error:  for url: /tools.descartes.teastore.webui/category?page=5&category=3')
+1                  POST /tools.descartes.teastore.webui/loginAction?username=18&password=password: HTTPError('500 Server Error:  for url: /tools.descartes.teastore.webui/loginAction?username=18&password=password')
+1                  POST /tools.descartes.teastore.webui/loginAction?username=65&password=password: HTTPError('500 Server Error:  for url: /tools.descartes.teastore.webui/loginAction?username=65&password=password')
+1                  GET /tools.descartes.teastore.webui/category?page=4&category=5: HTTPError('500 Server Error:  for url: /tools.descartes.teastore.webui/category?page=4&category=5')
+------------------|---------------------------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,73 @@
+[2026-01-21 06:48:22,285] loadgenerator/WARNING/locust.main: --run-time, --users or --spawn-rate have no impact on LoadShapes unless the shape class explicitly reads them. See: docs.locust.io/en/stable/custom-load-shape.html#use-common-options
+[2026-01-21 06:48:22,285] loadgenerator/WARNING/locust.main: The following option(s) will be ignored: --run-time
+[2026-01-21 06:48:22,287] loadgenerator/INFO/locust.runners: Shape test starting.
+[2026-01-21 06:48:22,288] loadgenerator/INFO/locust.runners: Shape worker starting
+[2026-01-21 06:48:22,288] loadgenerator/INFO/locust.runners: Shape test updating to 2 users at 2.00 spawn rate
+[2026-01-21 06:48:22,289] loadgenerator/INFO/locust.runners: Ramping to 2 users at a rate of 2.00 per second
+[2026-01-21 06:48:22,290] loadgenerator/INFO/locust.runners: All users spawned: {"ConsumerBehaviourModelGraph": 2} (2 total users)
+[2026-01-21 06:48:28,302] loadgenerator/INFO/locust.runners: Shape test updating to 0 users at 100.00 spawn rate
+[2026-01-21 06:48:28,302] loadgenerator/INFO/locust.runners: Ramping to 0 users at a rate of 100.00 per second
+[2026-01-21 06:48:28,303] loadgenerator/INFO/locust.runners: All users spawned: {"ConsumerBehaviourModelGraph": 0} (0 total users)
+[2026-01-21 06:48:30,308] loadgenerator/INFO/locust.runners: Shape test updating to 5 users at 2.00 spawn rate
+[2026-01-21 06:48:30,308] loadgenerator/INFO/locust.runners: Ramping to 5 users at a rate of 2.00 per second
+[2026-01-21 06:48:32,314] loadgenerator/INFO/locust.runners: All users spawned: {"ConsumerBehaviourModelGraph": 5} (5 total users)
+[2026-01-21 06:48:36,324] loadgenerator/INFO/locust.runners: Shape test updating to 0 users at 100.00 spawn rate
+[2026-01-21 06:48:36,324] loadgenerator/INFO/locust.runners: Ramping to 0 users at a rate of 100.00 per second
+[2026-01-21 06:48:36,325] loadgenerator/INFO/locust.runners: All users spawned: {"ConsumerBehaviourModelGraph": 0} (0 total users)
+[2026-01-21 06:48:38,329] loadgenerator/INFO/locust.runners: Shape test updating to 8 users at 2.00 spawn rate
+[2026-01-21 06:48:38,329] loadgenerator/INFO/locust.runners: Ramping to 8 users at a rate of 2.00 per second
+[2026-01-21 06:48:41,339] loadgenerator/INFO/locust.runners: All users spawned: {"ConsumerBehaviourModelGraph": 8} (8 total users)
+[2026-01-21 06:48:44,346] loadgenerator/INFO/locust.runners: Shape test updating to 0 users at 100.00 spawn rate
+[2026-01-21 06:48:44,346] loadgenerator/INFO/locust.runners: Ramping to 0 users at a rate of 100.00 per second
+[2026-01-21 06:48:44,347] loadgenerator/INFO/locust.runners: All users spawned: {"ConsumerBehaviourModelGraph": 0} (0 total users)
+[2026-01-21 06:48:46,352] loadgenerator/INFO/locust.runners: Shape test updating to 6 users at 2.00 spawn rate
+[2026-01-21 06:48:46,353] loadgenerator/INFO/locust.runners: Ramping to 6 users at a rate of 2.00 per second
+[2026-01-21 06:48:48,359] loadgenerator/INFO/locust.runners: All users spawned: {"ConsumerBehaviourModelGraph": 6} (6 total users)
+[2026-01-21 06:48:52,365] loadgenerator/INFO/locust.runners: Shape test updating to 0 users at 100.00 spawn rate
+[2026-01-21 06:48:52,366] loadgenerator/INFO/locust.runners: Ramping to 0 users at a rate of 100.00 per second
+[2026-01-21 06:48:52,367] loadgenerator/INFO/locust.runners: All users spawned: {"ConsumerBehaviourModelGraph": 0} (0 total users)
+[2026-01-21 06:48:54,370] loadgenerator/INFO/locust.runners: Shape test updating to 6 users at 2.00 spawn rate
+[2026-01-21 06:48:54,370] loadgenerator/INFO/locust.runners: Ramping to 6 users at a rate of 2.00 per second
+[2026-01-21 06:48:56,377] loadgenerator/INFO/locust.runners: All users spawned: {"ConsumerBehaviourModelGraph": 6} (6 total users)
+[2026-01-21 06:49:00,385] loadgenerator/INFO/locust.runners: Shape test updating to 0 users at 100.00 spawn rate
+[2026-01-21 06:49:00,385] loadgenerator/INFO/locust.runners: Ramping to 0 users at a rate of 100.00 per second
+[2026-01-21 06:49:00,386] loadgenerator/INFO/locust.runners: All users spawned: {"ConsumerBehaviourModelGraph": 0} (0 total users)
+[2026-01-21 06:49:02,390] loadgenerator/INFO/locust.runners: Shape test updating to 5 users at 2.00 spawn rate
+[2026-01-21 06:49:02,390] loadgenerator/INFO/locust.runners: Ramping to 5 users at a rate of 2.00 per second
+[2026-01-21 06:49:04,396] loadgenerator/INFO/locust.runners: All users spawned: {"ConsumerBehaviourModelGraph": 5} (5 total users)
+[2026-01-21 06:49:08,406] loadgenerator/INFO/locust.runners: Shape test updating to 0 users at 100.00 spawn rate
+[2026-01-21 06:49:08,406] loadgenerator/INFO/locust.runners: Ramping to 0 users at a rate of 100.00 per second
+[2026-01-21 06:49:08,407] loadgenerator/INFO/locust.runners: All users spawned: {"ConsumerBehaviourModelGraph": 0} (0 total users)
+[2026-01-21 06:49:10,412] loadgenerator/INFO/locust.runners: Shape test updating to 1 users at 2.00 spawn rate
+[2026-01-21 06:49:10,413] loadgenerator/INFO/locust.runners: Ramping to 1 users at a rate of 2.00 per second
+[2026-01-21 06:49:10,413] loadgenerator/INFO/locust.runners: All users spawned: {"ConsumerBehaviourModelGraph": 1} (1 total users)
+[2026-01-21 06:49:16,429] loadgenerator/INFO/locust.runners: Shape test updating to 0 users at 100.00 spawn rate
+[2026-01-21 06:49:16,430] loadgenerator/INFO/locust.runners: Ramping to 0 users at a rate of 100.00 per second
+[2026-01-21 06:49:16,430] loadgenerator/INFO/locust.runners: All users spawned: {"ConsumerBehaviourModelGraph": 0} (0 total users)
+[2026-01-21 06:49:18,434] loadgenerator/INFO/locust.runners: Shape test updating to 1 users at 2.00 spawn rate
+[2026-01-21 06:49:18,434] loadgenerator/INFO/locust.runners: Ramping to 1 users at a rate of 2.00 per second
+[2026-01-21 06:49:18,435] loadgenerator/INFO/locust.runners: All users spawned: {"ConsumerBehaviourModelGraph": 1} (1 total users)
+[2026-01-21 06:49:24,450] loadgenerator/INFO/locust.runners: Shape test stopping
+[2026-01-21 06:49:24,576] loadgenerator/INFO/locust.main: --run-time limit reached, shutting down
+[2026-01-21 06:49:24,576] loadgenerator/INFO/locust.main: Run time limit set to 64 seconds
+[2026-01-21 06:49:24,576] loadgenerator/INFO/locust.main: Starting Locust 2.29.0
+[2026-01-21 06:49:24,577] loadgenerator/INFO/locust.main: Shutting down (exit code 0)
+Type     Name                                                                          # reqs      # fails |    Avg     Min     Max    Med |   req/s  failures/s
+--------|----------------------------------------------------------------------------|-------|-------------|-------|-------|-------|-------|--------|-----------
+POST     /cartAction | add to cart                                                          2     0(0.00%) |      3       2       4      3 |    0.03        0.00
+GET      /category                                                                         57     0(0.00%) |     24      16      94     23 |    0.93        0.00
+GET      /product                                                                          12     0(0.00%) |     29      25      34     28 |    0.20        0.00
+GET      /tools.descartes.teastore.webui/cart                                               2     0(0.00%) |    902     811     993    811 |    0.03        0.00
+--------|----------------------------------------------------------------------------|-------|-------------|-------|-------|-------|-------|--------|-----------
+         Aggregated                                                                        73     0(0.00%) |     48       2     993     24 |    1.19        0.00
+
+Response time percentiles (approximated)
+Type     Name                                                                                  50%    66%    75%    80%    90%    95%    98%    99%  99.9% 99.99%   100% # reqs
+--------|--------------------------------------------------------------------------------|--------|------|------|------|------|------|------|------|------|------|------|------
+POST     /cartAction | add to cart                                                               5      5      5      5      5      5      5      5      5      5      5      2
+GET      /category                                                                              23     24     25     25     26     41     54     94     94     94     94     57
+GET      /product                                                                               29     29     33     33     34     35     35     35     35     35     35     12
+GET      /tools.descartes.teastore.webui/cart                                                  990    990    990    990    990    990    990    990    990    990    990      2
+--------|--------------------------------------------------------------------------------|--------|------|------|------|------|------|------|------|------|------|------|------
+         Aggregated                                                                             24     25     26     27     33     54    810    990    990    990    990     73
+
