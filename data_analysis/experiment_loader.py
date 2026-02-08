@@ -1,4 +1,5 @@
 import pandas as pd
+import numpy as np
 from pathlib import Path
 from dataclasses import dataclass
 from scipy.stats import zscore
@@ -22,11 +23,35 @@ class ExperimentLoader:
         self.data = Path(self.base_dir)
         self.experiments = [x for x in self.data.iterdir() if x.is_dir()]
     
+    @staticmethod
+    def get_experiment_length(df):
+        times = df["observation_time"].unique()
+        data = np.array(times)
+        times = data.astype('datetime64[s]')
+
+        time_span = times.max() - times.min()
+        # Convert to integer (seconds)
+        span_int = time_span.astype(int)
+
+        return span_int
+
     def get_experiment_names(self):
         return [str(exp_dir.stem) for exp_dir in self.experiments]
 
     def get_iteration(self, experiment_name: str, workload: str ="shaped", variant: str="baseline", iteration_index: int ="0"):
         return Iteration(experiment_name, workload, variant, iteration_index)
+    
+    @staticmethod
+    def _transform_observation_time(df):
+        # Convert to numpy datetime64 in seconds
+        times = pd.to_datetime(df["observation_time"]).values.astype('datetime64[s]')
+        
+        # Calculate offset from the start
+        min_time = times.min()
+        relative_seconds = (times - min_time).astype(int) 
+        
+        df["relative_seconds"] = relative_seconds
+        return df
     
     def load_pod_measurements(self, iteration: Iteration, clean: bool = True, drop_outliers: bool = False) -> pd.DataFrame:
     
@@ -44,6 +69,8 @@ class ExperimentLoader:
             df = df[df["name"] != "loadgenerator" ]
         if drop_outliers:
             df = self._drop_outliers(df)
+        
+        df = self._transform_observation_time(df)
 
         return df
     
@@ -61,8 +88,11 @@ class ExperimentLoader:
         df = pd.read_csv(target_file)
         if drop_outliers:
             df = self._drop_outliers(df)
+        
+        df = self._transform_observation_time(df)
 
         return df
+    
     
     def _drop_outliers(self, df, z_score_threshold=3):
         data_errors = 0

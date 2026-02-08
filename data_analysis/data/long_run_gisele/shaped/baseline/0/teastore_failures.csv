@@ -1,0 +1,15 @@
+Method,Name,Error,Occurrences
+GET,/product,"ConnectionRefusedError(111, 'Connection refused')",228
+GET,/tools.descartes.teastore.webui,RemoteDisconnected('Remote end closed connection without response'),12
+GET,/tools.descartes.teastore.webui/cart,RemoteDisconnected('Remote end closed connection without response'),3
+GET,/tools.descartes.teastore.webui/cart,"ConnectionRefusedError(111, 'Connection refused')",29
+GET,/category,"ConnectionRefusedError(111, 'Connection refused')",783
+GET,/tools.descartes.teastore.webui/order,"ConnectionRefusedError(111, 'Connection refused')",7
+GET,/category,RemoteDisconnected('Remote end closed connection without response'),69
+GET,/tools.descartes.teastore.webui/order,RemoteDisconnected('Remote end closed connection without response'),2
+GET,/tools.descartes.teastore.webui,"ConnectionRefusedError(111, 'Connection refused')",32
+POST,/cartAction | add to cart,"ConnectionRefusedError(111, 'Connection refused')",29
+GET,/product,RemoteDisconnected('Remote end closed connection without response'),26
+GET,/product,HTTPError('500 Server Error:  for url: /product'),1
+GET,/category,HTTPError('500 Server Error:  for url: /category'),13
+POST,/cartAction | pay,"ConnectionRefusedError(111, 'Connection refused')",7
